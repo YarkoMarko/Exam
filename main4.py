@@ -1,1 +1,0 @@
-print([x for x in [int(input("Enter number: ")) for _ in range(10)] if x % 2 == 0])
